@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ssaachin
-- 👀 I’m interested in web developing (FrontEnd & BackEnd) - Javascript - Python - PHP - MySQL
+- 👀 I’m interested in Web & App Development (FrontEnd) - Vanilla Js, React Js & React Native 
 - 🌱 I’m currently learning React js
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
